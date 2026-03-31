@@ -19,5 +19,5 @@ A classic Flappy Bird arcade game built with Python and Pygame. Navigate the bir
 
 ## Installation
 ```bash
-pip install pygame
-python working_flappy.py
+pip or pip3 install pygame
+python or python3 working_flappy.py
